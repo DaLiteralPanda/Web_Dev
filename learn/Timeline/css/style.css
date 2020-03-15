@@ -1,0 +1,20 @@
+.p1 {
+  position: relative;
+  width: 200px;
+  padding: 5px 20px 7px 20px;
+  background-color: dimgrey;
+  color: aliceblue;
+}
+.p2 {
+  position: relative;
+  width: 200px;
+  padding: 7px 20px 4px 20px;
+  background-color: dimgrey;
+  color: aliceblue;
+}
+.timeline_line {
+  display: flex;
+  justify-content: center;
+  height: 5px;
+  width: 85%;
+}
